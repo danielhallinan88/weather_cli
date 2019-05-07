@@ -1,18 +1,18 @@
 # weather_cli
-# Python 2.7
+Python 2.7
 
-# Displays the weather in big blocky letters in the command line.
-# Weather data is taken from XML format from w1.weather.gov.
-# Change the location at line 65.
+Displays the weather in big blocky letters in the command line.
+Weather data is taken from XML format from w1.weather.gov.
+Change the location at line 65.
 
-Example:
-	python currentWeather.py
+Example:  
+	python currentWeather.py  
 
-Output:
+Output:  
 
-2018-03-19 14:23:10.377430
-Madison, Dane County Regional-Truax Field, WI
-Partly Cloudy
+2018-03-19 14:23:10.377430  
+Madison, Dane County Regional-Truax Field, WI  
+Partly Cloudy  
 
  _    _     _______         ____      
 | |  | |   |  ___  |      .'    '.    
